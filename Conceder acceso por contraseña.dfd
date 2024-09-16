@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+10
+contraseña
+8
+12345678
+4
+1
+106
+'Para ingresar a tu perfil debes ingresar tu USUARIO y luego la CONTRASEÑA que estableciste anteriormente'
+5
+1
+17
+usuario, password
+7
+0
+1
+21
+contraseña = password
+4
+1
+39
+usuario, ' Tu Contraseña es incorrecta'
+9
+1
+22
+contraseña != password
+4
+1
+34
+'Ingresa Nuevamente la Contraseña'
+5
+1
+8
+password
+7
+0
+1
+21
+contraseña = password
+13
+4
+1
+22
+usuario, ' Bienvenido'
+13
+11
+13
+4
+1
+22
+usuario, ' Bienvenido'
+13
+1

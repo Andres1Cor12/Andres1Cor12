@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+nequi
+6
+500000
+4
+1
+49
+'Digite 1 para retirar ó digite 2 para consignar'
+5
+1
+7
+opcion1
+7
+0
+1
+11
+opcion1 = 1
+4
+1
+40
+'Digite la cantidad que desea consignar'
+5
+1
+8
+consigna
+6
+1
+5
+total
+16
+nequi + consigna
+4
+1
+24
+'Tu total es de:', total
+13
+4
+1
+38
+'Digite la cantidad que desea retirar'
+5
+1
+6
+retiro
+7
+0
+1
+16
+retiro <= 500000
+4
+1
+26
+'Su saldo es insuficiente'
+13
+6
+1
+5
+total
+14
+nequi - retiro
+4
+1
+37
+'Retiro Existoso Su total es:', total
+13
+13
+1

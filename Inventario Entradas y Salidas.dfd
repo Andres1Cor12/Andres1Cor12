@@ -1,0 +1,242 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+papa
+3
+58 
+7
+gaseosa
+2
+60
+3
+pan
+2
+35
+4
+1
+37
+'VENTA (1)    AÑADIR A INVENTARIO(2)'
+5
+1
+6
+accion
+7
+0
+1
+10
+accion = 1
+7
+0
+1
+10
+accion = 2
+13
+4
+1
+49
+'Nombre del producto a ingresar en el inventario'
+5
+1
+8
+producto
+7
+0
+1
+18
+producto = 'papas'
+7
+0
+1
+21
+producto = 'gaseosas'
+7
+0
+1
+18
+producto = 'panes'
+13
+4
+1
+38
+'Ingresa la cantidad que vas a añadir'
+5
+1
+6
+añadir
+6
+1
+3
+pan
+12
+pan + añadir
+4
+1
+37
+'Listo, la cantidad actual es: ', pan
+13
+13
+4
+1
+38
+'Ingresa la cantidad que vas a añadir'
+5
+1
+6
+añadir
+6
+1
+7
+gaseosa
+16
+gaseosa + añadir
+4
+1
+41
+'Listo, la cantidad actual es: ', gaseosa
+13
+13
+4
+1
+38
+'Ingresa la cantidad que vas a añadir'
+5
+1
+6
+añadir
+6
+1
+4
+papa
+14
+ papa + añadir
+4
+1
+38
+'Listo, la cantidad actual es: ', papa
+13
+13
+13
+4
+1
+104
+'Los Productos disponibles son:', ' papas', ', gaseosas', ', panes',  '. Escriba el Nombre del Producto'
+5
+1
+8
+producto
+7
+0
+1
+18
+producto = 'papas'
+7
+0
+1
+21
+producto = 'gaseosas'
+7
+0
+1
+18
+producto = 'panes'
+13
+4
+1
+38
+'Ingresa la cantidad que vas a vender'
+5
+1
+5
+venta
+7
+0
+1
+11
+venta > pan
+6
+1
+3
+pan
+11
+pan - venta
+4
+1
+36
+'INVENTARIO: Quedan ', pan, ' panes'
+13
+4
+1
+72
+'No cuentas con esa cantidad en inventario solo tienes: ', pan, ' panes'
+13
+13
+13
+4
+1
+38
+'Ingresa la cantidad que vas a vender'
+5
+1
+5
+venta
+7
+0
+1
+15
+venta > gaseosa
+6
+1
+7
+gaseosa
+15
+gaseosa - venta
+4
+1
+43
+'INVENTARIO: Quedan ', gaseosa, ' gaseosas'
+13
+4
+1
+79
+'No cuentas con esa cantidad en inventario solo tienes: ', gaseosa, ' gaseosas'
+13
+13
+13
+4
+1
+38
+'Ingresa la cantidad que vas a vender'
+5
+1
+5
+venta
+7
+0
+1
+12
+venta > papa
+6
+1
+4
+papa
+12
+papa - venta
+4
+1
+37
+'INVENTARIO: Quedan ', papa, ' papas'
+13
+4
+1
+73
+'No cuentas con esa cantidad en inventario solo tienes: ', papa, ' papas'
+13
+13
+13
+1

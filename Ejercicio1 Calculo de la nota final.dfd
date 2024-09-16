@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+101
+'HOLA, vamos a calcular la nota final que tendras, ingresa a continuiación las 3 notas de cada corte'
+5
+1
+16
+not1, not2, not3
+6
+1
+5
+final
+32
+(not1*0.3)+(not2*0.3)+(not3*0.4)
+7
+0
+1
+11
+final < 3.0
+4
+1
+36
+'APROBADO, su nota final es ', final
+13
+4
+1
+38
+'REPROBADO, su nota final es ' , final
+13
+1

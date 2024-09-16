@@ -1,0 +1,171 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+hombre
+2
+62
+5
+mujer
+2
+57
+7
+semanas
+4
+1300
+4
+1
+139
+'Bienvenido vamos a saber que tan cerca estás de lograr tu Pensión, necesitaremos que coloques una información necesaria para este proceso'
+4
+1
+42
+'escribe tu nombre entre comillas simples'
+5
+1
+6
+nombre
+4
+1
+23
+'Ahora escribe tu edad'
+5
+1
+4
+edad
+4
+1
+68
+'Escribe si eres hombre o mujer, recuerda usar las comillas simples'
+5
+1
+4
+sexo
+4
+1
+79
+'Por ultimo escribe la cantidad de semanas que llevas cotizadas hasta la fecha'
+5
+1
+9
+cotizadas
+7
+0
+1
+14
+sexo = 'mujer'
+13
+7
+0
+1
+13
+edad >= mujer
+6
+1
+9
+necesaria
+12
+edad - mujer
+4
+1
+91
+nombre, ', No tienes la edad necesaria para obtener la pensión, faltan', necesaria, ' años'
+13
+4
+1
+44
+nombre, ', Genial, tienes la edad necesaria'
+13
+7
+0
+1
+20
+cotizadas >= semanas
+6
+1
+2
+SF
+19
+semanas - cotizadas
+4
+1
+40
+nombre, ', Aun te faltan ',SF,' semanas'
+13
+6
+1
+2
+SC
+19
+cotizadas - semanas
+4
+1
+151
+nombre, ', Genial, ya tienes las semanas estipuladas por la ley, a continuación mostraremos la cantidad de semanas que tienes de más, si es así. - ',SC
+13
+13
+7
+0
+1
+15
+sexo = 'hombre'
+13
+7
+0
+1
+14
+edad >= hombre
+6
+1
+9
+necesaria
+13
+edad - hombre
+4
+1
+91
+nombre, ', No tienes la edad necesaria para obtener la pensión, faltan', necesaria, ' años'
+13
+4
+1
+44
+nombre, ', Genial, tienes la edad necesaria'
+13
+7
+0
+1
+20
+cotizadas >= semanas
+6
+1
+2
+SF
+19
+semanas - cotizadas
+4
+1
+40
+nombre, ', Aun te faltan ',SF,' semanas'
+13
+6
+1
+2
+SC
+19
+cotizadas - semanas
+4
+1
+151
+nombre, ', Genial, ya tienes las semanas estipuladas por la ley, a continuación mostraremos la cantidad de semanas que tienes de más, si es así. - ',SC
+13
+13
+4
+1
+50
+'Eso es todo ', nombre, ' gracias por preferirnos'
+1
