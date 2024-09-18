@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+121
+'Hola te ayudaremos a calcular el IMC (Indice de Masa Corporal) este indica tu estado de salud según tu altura y tu peso'
+4
+1
+41
+'Ingresa tu altura actual, ejemplo: 1.65'
+5
+1
+6
+altura
+4
+1
+116
+'Ahora escribe tu peso, la unidad que usamos son los Kilogramos, Ejemplo: 79; no escribas la unidad de medida "Kg" '
+5
+1
+4
+peso
+6
+1
+4
+IMC 
+23
+peso/ (altura * altura)
+4
+1
+3
+IMC
+7
+0
+1
+10
+IMC < 18.5
+13
+4
+1
+56
+'Ten cuidado estás bajo de peso, mejora tu alimentación'
+13
+7
+0
+1
+27
+IMC >= 18.5 and IMC <= 24.9
+13
+4
+1
+44
+'Genial, estás en el rango adecuado de peso'
+13
+7
+0
+1
+25
+IMC >= 25 and IMC <= 29.9
+13
+4
+1
+74
+'Tienes sobre peso, estás a tiempo de cuidarte para no entrar en Obesidad'
+13
+7
+0
+1
+25
+IMC >= 30 and IMC <= 34.9
+13
+4
+1
+25
+'Tienes Obesidad grado I'
+13
+7
+0
+1
+25
+IMC >= 35 and IMC <= 39.9
+13
+4
+1
+26
+'Tienes Obesidad grado II'
+13
+7
+0
+1
+9
+IMC >= 40
+13
+4
+1
+27
+'Tienes Obesidad grado III'
+13
+1
