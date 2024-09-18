@@ -1,0 +1,318 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+6
+hombre
+2
+59
+5
+mujer
+2
+54
+4
+1
+202
+'Hola, evauaremos si eres apto para el Subsidio Colombia Mayor. A continuación Ingresa tu nombre: (Sistema Válido solo para Colombianos que hayan recidido los últimos 10 años en en territorio Nacional)'
+5
+1
+6
+nombre
+4
+1
+22
+'Cédula de Ciudadania'
+5
+1
+6
+cedula
+4
+1
+52
+'¿Cuantos años ha vivido en el territorio Nacional?'
+5
+1
+8
+vivienda
+4
+1
+36
+'escribe tu sexo "hombre" o "mujer"'
+5
+1
+4
+sexo
+4
+1
+17
+'Escribe tu edad'
+5
+1
+4
+edad
+4
+1
+101
+'Ingresa la letra del grupo de SISBEN, si no tienes sisben escribe "no" usando las comillas simples.'
+5
+1
+6
+sisben
+7
+0
+1
+13
+sisben = 'no'
+4
+1
+67
+'Ahora escribe el número que acompaña la letra del grupo de sisben'
+5
+1
+8
+subgrupo
+7
+0
+1
+15
+sexo = 'hombre'
+13
+7
+0
+1
+13
+edad < hombre
+7
+0
+1
+12
+sisben = 'A'
+13
+7
+0
+1
+13
+subgrupo <= 5
+4
+1
+70
+nombre, ' Tu Subgrupo es inválido, el SISBEN A consta de nivel 1 al 5'
+13
+7
+0
+1
+13
+vivienda > 10
+4
+1
+75
+nombre, ' no cumples con el tiempo de residencia en el territorio Nacional'
+13
+4
+1
+111
+nombre, ' Eres apto para acceder al Subsidio "Colombia Mayor" ingresa a la página para realizar la postulación'
+13
+13
+13
+7
+0
+1
+12
+sisben = 'B'
+13
+7
+0
+1
+13
+subgrupo <= 7
+4
+1
+70
+nombre, ' Tu Subgrupo es inválido, el SISBEN B consta de nivel 1 al 7'
+13
+7
+0
+1
+13
+vivienda > 10
+4
+1
+75
+nombre, ' no cumples con el tiempo de residencia en el territorio Nacional'
+13
+4
+1
+111
+nombre, ' Eres apto para acceder al Subsidio "Colombia Mayor" ingresa a la página para realizar la postulación'
+13
+13
+13
+7
+0
+1
+12
+sisben = 'C'
+13
+7
+0
+1
+11
+subgrupo =1
+4
+1
+108
+nombre, ' Tu Subgrupo es inválido para este subsidio, el SISBEN C para "Colombia Mayor" acepta hasta el C 1'
+13
+7
+0
+1
+13
+vivienda > 10
+4
+1
+75
+nombre, ' no cumples con el tiempo de residencia en el territorio Nacional'
+13
+4
+1
+111
+nombre, ' Eres apto para acceder al Subsidio "Colombia Mayor" ingresa a la página para realizar la postulación'
+13
+13
+13
+13
+4
+1
+136
+nombre, ' identificado con la Cédula de Ciudadania. ',cedula, ' Lamentablemente con cumples con la edad mínima para acceder al subsidio'
+13
+13
+7
+0
+1
+14
+sexo = 'mujer'
+13
+7
+0
+1
+12
+edad < mujer
+7
+0
+1
+12
+sisben = 'A'
+13
+7
+0
+1
+13
+subgrupo <= 5
+4
+1
+70
+nombre, ' Tu Subgrupo es inválido, el SISBEN A consta de nivel 1 al 5'
+13
+7
+0
+1
+13
+vivienda > 10
+4
+1
+75
+nombre, ' no cumples con el tiempo de residencia en el territorio Nacional'
+13
+4
+1
+111
+nombre, ' Eres apta para acceder al Subsidio "Colombia Mayor" ingresa a la página para realizar la postulación'
+13
+13
+13
+7
+0
+1
+12
+sisben = 'B'
+13
+7
+0
+1
+13
+subgrupo <= 7
+4
+1
+70
+nombre, ' Tu Subgrupo es inválido, el SISBEN B consta de nivel 1 al 7'
+13
+7
+0
+1
+13
+vivienda > 10
+4
+1
+75
+nombre, ' no cumples con el tiempo de residencia en el territorio Nacional'
+13
+4
+1
+111
+nombre, ' Eres apta para acceder al Subsidio "Colombia Mayor" ingresa a la página para realizar la postulación'
+13
+13
+13
+7
+0
+1
+12
+sisben = 'C'
+13
+7
+0
+1
+11
+subgrupo =1
+4
+1
+108
+nombre, ' Tu Subgrupo es inválido para este subsidio, el SISBEN C para "Colombia Mayor" acepta hasta el C 1'
+13
+7
+0
+1
+13
+vivienda > 10
+4
+1
+75
+nombre, ' no cumples con el tiempo de residencia en el territorio Nacional'
+13
+4
+1
+111
+nombre, ' Eres apta para acceder al Subsidio "Colombia Mayor" ingresa a la página para realizar la postulación'
+13
+13
+13
+13
+4
+1
+136
+nombre, ' identificada con la Cédula de Ciudadania. ',cedula, ' Lamentablemente con cumples con la edad mínima para acceder al subsidio'
+13
+13
+13
+4
+1
+129
+'Lo Sentimos, uno de los requisitos principales es tener SISBEN, solicita la encuesta y visita para obtener el puntaje de SISBEN'
+13
+1
