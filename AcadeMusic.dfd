@@ -1,0 +1,259 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'Hola Bienvenido a AcadeMusic, ingresa tu nombre para continuar.'
+5
+1
+6
+nombre
+4
+1
+307
+nombre, ', Te ofrecemos diferentes planes de aprendizaje, aquí conocerás los costos, estos varían según tu experiencia, el instrumento que elijas y tu presupuesto. Los instrumentos disponibles son: guitarra, bateria, clarinete, piano, escribe el que deseas, "Hazlo de la misma forma que está escrito aquí" '
+5
+1
+11
+instrumento
+7
+0
+1
+24
+instrumento = 'guitarra'
+7
+0
+1
+23
+instrumento = 'bateria'
+7
+0
+1
+25
+instrumento = 'clarinete'
+7
+0
+1
+21
+instrumento = 'piano'
+13
+4
+1
+163
+'Excelente decisión, ¿cuanto tiempo llevas tocando? 1) 0 a 3 meses, 2) 4 a 6 meses, 3) 7 a 12 meses, 4) más de 1año.     Seleciona la opción según tu experiencia.'
+5
+1
+11
+experiencia
+7
+0
+1
+15
+experiencia = 1
+7
+0
+1
+15
+experiencia = 2
+7
+0
+1
+15
+experiencia = 3
+7
+0
+1
+15
+experiencia = 4
+13
+4
+1
+120
+'Super, el precio para tí es $160.000 por cada mes, contarás con 4 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+120
+'Super, el precio para tí es $180.000 por cada mes, contarás con 6 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+120
+'Super, el precio para tí es $190.000 por cada mes, contarás con 6 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+118
+'Super, el precio para tí es $200.000 por cada mes, contarás con dos clases por cada semana y 1 día de práctica libre'
+13
+13
+13
+4
+1
+163
+'Excelente decisión, ¿cuanto tiempo llevas tocando? 1) 0 a 3 meses, 2) 4 a 6 meses, 3) 7 a 12 meses, 4) más de 1año.     Seleciona la opción según tu experiencia.'
+5
+1
+11
+experiencia
+7
+0
+1
+15
+experiencia = 1
+7
+0
+1
+15
+experiencia = 2
+7
+0
+1
+15
+experiencia = 3
+7
+0
+1
+15
+experiencia = 4
+13
+4
+1
+120
+'Super, el precio para tí es $160.000 por cada mes, contarás con 4 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+120
+'Super, el precio para tí es $180.000 por cada mes, contarás con 6 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+120
+'Super, el precio para tí es $190.000 por cada mes, contarás con 6 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+118
+'Super, el precio para tí es $200.000 por cada mes, contarás con dos clases por cada semana y 1 día de práctica libre'
+13
+13
+13
+4
+1
+163
+'Excelente decisión, ¿cuanto tiempo llevas tocando? 1) 0 a 3 meses, 2) 4 a 6 meses, 3) 7 a 12 meses, 4) más de 1año.     Seleciona la opción según tu experiencia.'
+5
+1
+11
+experiencia
+7
+0
+1
+15
+experiencia = 1
+7
+0
+1
+15
+experiencia = 2
+7
+0
+1
+15
+experiencia = 3
+7
+0
+1
+15
+experiencia = 4
+13
+4
+1
+120
+'Super, el precio para tí es $160.000 por cada mes, contarás con 4 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+120
+'Super, el precio para tí es $180.000 por cada mes, contarás con 6 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+120
+'Super, el precio para tí es $190.000 por cada mes, contarás con 6 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+118
+'Super, el precio para tí es $200.000 por cada mes, contarás con dos clases por cada semana y 1 día de práctica libre'
+13
+13
+13
+4
+1
+163
+'Excelente decisión, ¿cuanto tiempo llevas tocando? 1) 0 a 3 meses, 2) 4 a 6 meses, 3) 7 a 12 meses, 4) más de 1año.     Seleciona la opción según tu experiencia.'
+5
+1
+11
+experiencia
+7
+0
+1
+15
+experiencia = 1
+7
+0
+1
+15
+experiencia = 2
+7
+0
+1
+15
+experiencia = 3
+7
+0
+1
+15
+experiencia = 4
+13
+4
+1
+120
+'Super, el precio para tí es $160.000 por cada mes, contarás con 4 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+120
+'Super, el precio para tí es $180.000 por cada mes, contarás con 6 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+120
+'Super, el precio para tí es $190.000 por cada mes, contarás con 6 clases por mes y 1 día de práctica libre cada semana'
+13
+13
+4
+1
+118
+'Super, el precio para tí es $200.000 por cada mes, contarás con dos clases por cada semana y 1 día de práctica libre'
+13
+13
+1

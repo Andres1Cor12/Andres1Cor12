@@ -1,0 +1,123 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+136
+'Estás por iniciar tu curso de conducción, necesitamos conocer algunos datos sobre ti, primeramente tu nombre, ingresalo a continuación'
+5
+1
+6
+nombre
+4
+1
+23
+'¿Cuantos años tienes?'
+5
+1
+4
+edad
+4
+1
+156
+'Que vehiculo deseas aprender a manejar, ¿Carro, motocicleta o ambos? responde a continuación escribiendolo así como te mostramos y usando comillas simples'
+5
+1
+8
+vehiculo
+7
+0
+1
+10
+edad >= 18
+7
+0
+1
+9
+edad < 16
+4
+1
+149
+'Ten encuenta que recibiras la licencia de conducir para menores de edad, eso quiere deir que tendras que actualizarlo al cumplir la mayoria de edad'
+7
+0
+1
+18
+vehiculo = 'Carro'
+7
+0
+1
+24
+vehiculo = 'motocicleta'
+7
+0
+1
+18
+vehiculo = 'ambos'
+13
+4
+1
+243
+'Para ti,',nombre,' que deseas aprender a conducir tanto Carro, como Motocicleta, tenemos una oferta especial, el costro del curso para Motocicleta es de $800.000, el de Carro es de $1.000.000, al hacer los dos queda en un total de $1.500.000'
+13
+13
+4
+1
+70
+'Genial, ' ,nombre, ' el costo de el curso de conducir es de $800.000'
+13
+13
+4
+1
+72
+'Genial, ' ,nombre, ' el costo de el curso de conducir es de $1.000.000'
+13
+13
+4
+1
+124
+'Aun no puedes obtener la licencia de conducir para menores de edad, esta se puede adquirir a partir de los 16 años de edad'
+13
+13
+7
+0
+1
+18
+vehiculo = 'Carro'
+7
+0
+1
+24
+vehiculo = 'motocicleta'
+7
+0
+1
+18
+vehiculo = 'ambos'
+13
+4
+1
+243
+'Para ti,',nombre,' que deseas aprender a conducir tanto Carro, como Motocicleta, tenemos una oferta especial, el costro del curso para Motocicleta es de $800.000, el de Carro es de $1.000.000, al hacer los dos queda en un total de $1.500.000'
+13
+13
+4
+1
+70
+'Genial, ' ,nombre, ' el costo de el curso de conducir es de $800.000'
+13
+13
+4
+1
+72
+'Genial, ' ,nombre, ' el costo de el curso de conducir es de $1.000.000'
+13
+13
+4
+1
+33
+'Gracias por confiar en nosotros'
+1
