@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+96
+'Bienvenido a la calculadora de Interes, aquí podrás calcular el interes simple o el compuesto.'
+4
+1
+46
+'Ingresa el monto inicial que deseas invertir'
+5
+1
+7
+capital
+4
+1
+102
+'ingresa la tasa de interes pero escribelo sin el signo %, es decir, en lugar de 13% escribe solo 13.'
+5
+1
+4
+tasa
+6
+1
+7
+interes
+10
+tasa / 100
+4
+1
+40
+'Tiempo en años que durará la inversión'
+5
+1
+4
+años
+4
+1
+100
+'Ahora, escribe 1 si deseas calcular el interes compuesto y 2 si deseas calcular el interes simple.'
+5
+1
+6
+opcion
+7
+0
+1
+10
+opcion = 1
+7
+0
+1
+10
+opcion = 2
+13
+6
+1
+2
+IS
+29
+capital * (1+ interes * años)
+4
+1
+116
+'El interes simple que genera teniendo en cuenta la inversion, el interes anual y los años, su interes es de: ' , IS
+13
+13
+6
+1
+2
+IC
+28
+capital * (1+ interes) ^años
+4
+1
+146
+'Según la inforamación brindada, teniendo el cuenta el capital de inversión, el interes y el teimpo que lo tendrá, su Interes Compuesto es: ' , IC
+13
+1
