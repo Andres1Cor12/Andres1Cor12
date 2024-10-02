@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+265
+'Bienvenido a la escuela de Futbol "NewProspects" tenemos diferentes categorias o subdivisiones que se ajustan a todos los rangos de edades, a continuación escribe tu nombre, luego tu edad, si eres menor de edad requeriremos algunos datos de un adulto responsable.'
+5
+1
+10
+name, edad
+7
+0
+1
+10
+edad >= 18
+4
+1
+96
+'Hola ' , name , ', necesitamos que un adulto responsable proporcione la siguiente información.'
+4
+1
+19
+'Nombre del Adulto'
+5
+1
+8
+name_adu
+4
+1
+22
+'Cédula de Ciudadania'
+5
+1
+6
+cedula
+4
+1
+12
+'Parentesco'
+5
+1
+10
+parentesco
+4
+1
+19
+'Número de Celular'
+5
+1
+7
+celular
+4
+1
+128
+'Genial ', name_adu , ', en un lapso de 48 Horas nos comunicaremos contigo para programar la entrevista, gracias por elegirnos.'
+13
+4
+1
+50
+name , ', digita por favor tu número de celular..'
+5
+1
+7
+celular
+4
+1
+31
+'Ahora tu Cédula de Ciudadania'
+5
+1
+6
+cedula
+4
+1
+123
+'Genial ', name, ', en un lapso de 48 Horas nos comunicaremos contigo para programar la entrevista, gracias por elegirnos.'
+13
+1
