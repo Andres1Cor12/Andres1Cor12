@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'REGISTRO DE HORAS LABORALES'
+4
+1
+8
+'NOMBRE'
+5
+1
+6
+nombre
+4
+1
+8
+'CÉDULA'
+5
+1
+6
+cedula
+4
+1
+29
+'FECHA en formato DD/MM/AAAA'
+5
+1
+5
+fecha
+4
+1
+32
+'HORA DE ENTRADA en formato 24h'
+5
+1
+12
+hora_entrada
+4
+1
+31
+'HORA DE SALIDA en formato 24h'
+5
+1
+11
+hora_salida
+6
+1
+2
+HL
+27
+ hora_salida - hora_entrada
+4
+1
+63
+'Hola ' , nombre, ' el ', fecha, ' trabajaste ' , HL , ' horas'
+7
+0
+1
+6
+HL < 8
+4
+1
+53
+nombre, ' que tengas buen día, gracias por tu labor.'
+13
+4
+1
+54
+'NO HAS CUMPLIDO CON EL TURNO COMUNICATE CON TU JEFE.'
+13
+1
