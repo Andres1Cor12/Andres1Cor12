@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+138
+'Bienvenido al Banco Z, a continuación encontrarás opciones para quienes tienen su negocio, o son independientes ya sea formal o informal'
+4
+1
+105
+'Contamos con diferentes - Créditos -Escribe 1 si estás interesado en conocer el portafolio de créditos.'
+5
+1
+6
+opcion
+7
+0
+1
+10
+opcion = 1
+4
+1
+18
+'Comando Inválido'
+13
+4
+1
+68
+'Contamos con: 1) Microcréditos, 2) Ahorro a gotas, 3) Construyamos'
+4
+1
+86
+'Cada opción tenía un número, escribe el número del producto del que estás interesado'
+5
+1
+8
+producto
+7
+0
+1
+12
+producto = 1
+7
+0
+1
+12
+producto = 2
+7
+0
+1
+12
+producto = 3
+4
+1
+18
+'Comando Inválido'
+13
+4
+1
+200
+'Escirba un número de telefono al cual nos podamos contactar, allí le enseñaremos los beneficios de adquirir este tipo de crédito y le solicitaremos unos datos para saber si es apto para esta opción.'
+5
+1
+7
+celular
+4
+1
+50
+'Genial, en unas horas nos comunicaremos contigo.'
+13
+13
+4
+1
+200
+'Escirba un número de telefono al cual nos podamos contactar, allí le enseñaremos los beneficios de adquirir este tipo de crédito y le solicitaremos unos datos para saber si es apto para esta opción.'
+5
+1
+7
+celular
+4
+1
+50
+'Genial, en unas horas nos comunicaremos contigo.'
+13
+13
+4
+1
+200
+'Escirba un número de telefono al cual nos podamos contactar, allí le enseñaremos los beneficios de adquirir este tipo de crédito y le solicitaremos unos datos para saber si es apto para esta opción.'
+5
+1
+7
+celular
+4
+1
+50
+'Genial, en unas horas nos comunicaremos contigo.'
+13
+13
+1
