@@ -1,0 +1,169 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+99
+'Bienvenido a LabsAndrew, acá podrás reclamar tus laboratorios, a continuación completa unos datos'
+4
+1
+21
+'Nombre del paciente'
+5
+1
+15
+nombre_paciente
+4
+1
+21
+'Cédula del paciente'
+5
+1
+15
+cedula_paciente
+4
+1
+85
+'¿Quien reclama?   Escriba 1si es Acompañante    o Escriba 2 si usted es el Paciente'
+5
+1
+7
+reclama
+7
+0
+1
+11
+reclama = 1
+7
+0
+1
+11
+reclama = 2
+13
+4
+1
+84
+'Hola ' , nombre_paciente , ' escribe un correo donde te enviaremos los resultados.'
+5
+1
+6
+correo
+4
+1
+106
+'Genial, en unas horas revisa el correo que nos diste, si no te llegan comunicate al numero (601)345 9867'
+13
+13
+4
+1
+35
+'Complete le siguiente información'
+4
+1
+24
+'NOMBRE DEL ACOMPAÑANTE'
+5
+1
+18
+nombre_acompañante
+4
+1
+8
+'CÉDULA'
+5
+1
+18
+cedula_acompañante
+4
+1
+40
+'PARENTESCO (madre, padre, hijo, nieto)'
+5
+1
+10
+parentesco
+7
+0
+1
+20
+parentesco = 'madre'
+7
+0
+1
+20
+parentesco = 'padre'
+7
+0
+1
+19
+parentesco = 'hijo'
+7
+0
+1
+20
+parentesco = 'nieto'
+4
+1
+46
+'DENEGADO, no podemos enviarte los resultados'
+13
+4
+1
+94
+'PERMITIDO, ingrese un correo electronico donde se le enviarán los resultados de laboratorio.'
+5
+1
+6
+correo
+4
+1
+106
+'Genial, en unas horas revisa el correo que nos diste, si no te llegan comunicate al numero (601)345 9867'
+13
+13
+4
+1
+94
+'PERMITIDO, ingrese un correo electronico donde se le enviarán los resultados de laboratorio.'
+5
+1
+6
+correo
+4
+1
+106
+'Genial, en unas horas revisa el correo que nos diste, si no te llegan comunicate al numero (601)345 9867'
+13
+13
+4
+1
+94
+'PERMITIDO, ingrese un correo electronico donde se le enviarán los resultados de laboratorio.'
+5
+1
+6
+correo
+4
+1
+106
+'Genial, en unas horas revisa el correo que nos diste, si no te llegan comunicate al numero (601)345 9867'
+13
+13
+4
+1
+94
+'PERMITIDO, ingrese un correo electronico donde se le enviarán los resultados de laboratorio.'
+5
+1
+6
+correo
+4
+1
+106
+'Genial, en unas horas revisa el correo que nos diste, si no te llegan comunicate al numero (601)345 9867'
+13
+13
+1
