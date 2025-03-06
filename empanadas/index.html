@@ -1,0 +1,77 @@
+<html>
+    <head lang="es" >
+        <title>Iniciar Sesion</title>
+
+        <style>
+            body{
+                margin: 0;
+                padding: 0;
+                height: 900px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #002d62;
+                font-family: Arial, sans-serif;
+            }
+
+            .login-container {
+                background: #ffffff;
+                padding: 40px;
+                border-radius: 15px;
+                box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+                width: 400px;
+                text-align: center;
+            }
+
+            .login-container h2 {
+                margin-bottom: 20px;
+                color: #002d62;
+            }
+
+            .login-container input[type="number"]
+             {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 20px;
+                border: 1px solid #ccc;
+                border-radius: 10px;
+                outline: none;
+            }
+
+            .login-container input[type="submit"] {
+            background: #002d62;
+            color: white;
+            border: none;
+            padding: 10px;
+            width: 100%;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        .login-container input[type="submit"]:hover {
+            background: #004080; 
+        }
+
+        .login-container a {
+            text-decoration: none;
+            color: #002d62;
+            font-size: 14px;
+        }
+        </style>
+    </head>
+    <body>
+        <div class="login-container">
+            <h2>Empanadas</h2>
+            <form action="procesar_venta.php" method="POST">
+                <label for="p1">Ingresa el Valor del primer producto</label><br>
+                <input name="p1" type="number" placeholder="Producto 1" required>
+                <br>
+                <br>
+                <label for="p2">Ingresa el valor del segundo producto</label><br>
+                <input name="p2" type="number" placeholder="Producto 2" required>
+                <input type="submit" value="Vender">
+            </form>
+        </div>
+    </body>
+</html>
